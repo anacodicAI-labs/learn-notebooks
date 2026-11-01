@@ -2,7 +2,7 @@
 
 Runnable companion notebooks for the tutorials at **[anacodicai.org/learn](https://anacodicai.org/learn)**.
 
-Each notebook pairs with one article. The article explains the concept; the notebook lets you change the numbers and watch the conclusion move. Every one runs on the standard library plus `matplotlib` — **no API key, no accounts, no paid services**.
+Each notebook pairs with one article. The article explains the concept; the notebook lets you change the numbers and watch the conclusion move. Almost all run on the standard library plus `matplotlib` — **no API key, no accounts, no paid services**. The few that call a real model say so in their row and need only a free key (add it in Colab's 🔑 *Secrets* panel).
 
 ## How to use these
 
@@ -42,6 +42,7 @@ Each notebook pairs with one article. The article explains the concept; the note
 | CrewAI | Intermediate | [read](https://anacodicai.org/learn/ai-agents/6-2/crewai) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-2/crewai.ipynb) |
 | AutoGen | Intermediate | [read](https://anacodicai.org/learn/ai-agents/6-2/autogen) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-2/autogen.ipynb) |
 | MCP Fundamentals | Intermediate | [read](https://anacodicai.org/learn/ai-agents/6-3/mcp-fundamentals) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-3/mcp-fundamentals.ipynb) |
+| Production Agents: tools, sub-agents, memory, guardrails, evaluation (needs a free Groq key) | Advanced | [read](https://anacodicai.org/learn/ai-agents/6-5/production-agents) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-5/production-agents.ipynb) |
 
 ## Layout
 
