@@ -42,7 +42,7 @@ Each notebook pairs with one article. The article explains the concept; the note
 | CrewAI | Intermediate | [read](https://anacodicai.org/learn/ai-agents/6-2/crewai) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-2/crewai.ipynb) |
 | AutoGen | Intermediate | [read](https://anacodicai.org/learn/ai-agents/6-2/autogen) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-2/autogen.ipynb) |
 | MCP Fundamentals | Intermediate | [read](https://anacodicai.org/learn/ai-agents/6-3/mcp-fundamentals) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-3/mcp-fundamentals.ipynb) |
-| From Prompt to Agent: tools, sub-agents, memory, guardrails, evaluation (needs a free Groq key) | Advanced | [read](https://anacodicai.org/learn/ai-agents/6-5/production-agents) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-5/production-agents.ipynb) |
+| From Prompt to Agent: tools, sub-agents, memory, guardrails, evaluation (needs a free Groq key) | Advanced | [read](https://anacodicai.org/learn/ai-agents/6-5/production-agents) | [Colab](https://colab.research.google.com/github/anacodicAI-labs/learn-notebooks/blob/main/ai-agents/6-5/from-prompt-to-agent.ipynb) |
 
 ## Layout
 
